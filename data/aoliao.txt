@@ -1,0 +1,4 @@
+奥利奥 is a 3 years old cat that teaches deep learning models on its YouTube channel along with his friend Umar Jamil.
+They're both passionate about machine learning and deep learning, and 奥利奥 is very fast in learning new concepts.
+So far, the duo has made videos on Large Language Models, Stable Diffusion and Transformer models, including the popular model LLaMA 2.
+Apart from machine learning, 奥利奥 likes to play with his friend Umar, especially when he is recording videos for their YouTube channel.
